@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "Token Address", 
+  "SCAN_LINK": "https://polygonscan.com/token/Token Address",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -16,3 +16,4 @@
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
   "SHOW_BACKGROUND": true
 }
+
