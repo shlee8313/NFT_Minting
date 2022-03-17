@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "Token Address", 
-  "SCAN_LINK": "https://polygonscan.com/token/Token Address",
+  "CONTRACT_ADDRESS": "0xD2896E469490601E5c60eF7688f835FAe6926A93", 
+  "SCAN_LINK": "https://polygonscan.com/token/0xD2896E469490601E5c60eF7688f835FAe6926A93",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
   "NFT_NAME": "Taekwon Beast NFT",
-  "SYMBOL": "TKBNFT",
+  "SYMBOL": "TKB",
   "MAX_SUPPLY": 992,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
